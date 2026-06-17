@@ -1,8 +1,8 @@
 ﻿======================================================================
 🌌 SYSTEM ALIGNMENT MANIFEST - MULTI-DIALECT COMPILER v9.8
 ======================================================================
-[MODULE ID]:          EntityCockpit
-[REMOTE REPOSITORY]:  https://github.com/robdoeAiagency101/ROOT-ENTITY-COCKPIT.git
+[MODULE ID]:          Lattice
+[REMOTE REPOSITORY]:  https://github.com/robdoeAiagency101/Root-lattice-identity.git
 [GOVERNING LAW]:      M_aligned = Sum_{p=1}^{12}(Path_p) + [Lattice, Mesh, StateEngine, Cockpit] * Cnn_Weights
 
 ----------------------------------------------------------------------
